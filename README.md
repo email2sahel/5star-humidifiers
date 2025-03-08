@@ -1,1 +1,1 @@
-<h1>Best Evaporative Humidifier</h1><p><a href="post/Best Evaporative Humidifier.md">Best Evaporative Humidifier</a></p>
+<h1>Best-Evaporative-Humidifier</h1><p><a href="post/Best Evaporative Humidifier.md">Best Evaporative Humidifier</a></p>
