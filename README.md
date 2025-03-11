@@ -1,1 +1,1 @@
-<h1>Best-Full-Home-Humidifier</h1><p><a href="post/Best Full Home Humidifier.md">Best Full Home Humidifier</a></p>
+<h1>Best-Whole-Home-Humidifier</h1><p><a href="post/Best-Whole-Home-Humidifier.md">Best Whole Home Humidifier</a></p>
