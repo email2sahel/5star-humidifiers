@@ -1,4 +1,4 @@
-<h1>Best Quiet Humidifier</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
+<h1>Best Small Humidifiers For Bedroom</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
 <p><a href="post/best-whole-house-humidifiers.md">Best Whole House Humidifiers</a></p>
 <p><a href="post/best-full-home-humidifier.md">Best Full Home Humidifier</a></p>
 <p><a href="post/best-whole-home-humidifier.md">Best Whole Home Humidifier</a></p>
@@ -45,3 +45,4 @@
 <p><a href="post/Best-In-House-Humidifier.md">Best In House Humidifier</a></p>
 <p><a href="post/Best-No-Filter-Humidifier.md">Best No Filter Humidifier</a></p>
 <p><a href="post/Best-Quiet-Humidifier.md">Best Quiet Humidifier</a></p>
+<p><a href="post/Best-Small-Humidifiers-For-Bedroom.md">Best Small Humidifiers For Bedroom</a></p>
