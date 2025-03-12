@@ -1,4 +1,4 @@
-<h1>Best Full House Humidifier</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
+<h1>Warm Mist Best Humidifier</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
 <p><a href="post/best-whole-house-humidifiers.md">Best Whole House Humidifiers</a></p>
 <p><a href="post/best-full-home-humidifier.md">Best Full Home Humidifier</a></p>
 <p><a href="post/best-whole-home-humidifier.md">Best Whole Home Humidifier</a></p>
@@ -8,3 +8,4 @@
 <p><a href="post/Best-Humidifier-For-Newborn.md">Best Humidifier For Newborn</a></p>
 <p><a href="post/Best-Humidifiers-For-Home.md">Best Humidifiers For Home</a></p>
 <p><a href="post/Best-Full-House-Humidifier.md">Best Full House Humidifier</a></p>
+<p><a href="post/Warm-Mist-Best-Humidifier.md">Warm Mist Best Humidifier</a></p>
