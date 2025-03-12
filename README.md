@@ -1,4 +1,4 @@
-<h1>Top Rated Whole House Humidifier</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
+<h1>Best Smart Humidifiers</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
 <p><a href="post/best-whole-house-humidifiers.md">Best Whole House Humidifiers</a></p>
 <p><a href="post/best-full-home-humidifier.md">Best Full Home Humidifier</a></p>
 <p><a href="post/best-whole-home-humidifier.md">Best Whole Home Humidifier</a></p>
@@ -57,3 +57,4 @@
 <p><a href="post/Top-Rated-Evaporative-Humidifier.md">Top Rated Evaporative Humidifier</a></p>
 <p><a href="post/Amazon-Top-Humidifiers.md">Amazon Top Humidifiers</a></p>
 <p><a href="post/Top-Rated-Whole-House-Humidifier.md">Top Rated Whole House Humidifier</a></p>
+<p><a href="post/Best-Smart-Humidifiers.md">Best Smart Humidifiers​</a></p>
