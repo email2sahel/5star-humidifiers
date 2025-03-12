@@ -1,4 +1,4 @@
-<h1>Best Large Humidifier</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
+<h1>Best Humidifier For Basement</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
 <p><a href="post/best-whole-house-humidifiers.md">Best Whole House Humidifiers</a></p>
 <p><a href="post/best-full-home-humidifier.md">Best Full Home Humidifier</a></p>
 <p><a href="post/best-whole-home-humidifier.md">Best Whole Home Humidifier</a></p>
@@ -17,3 +17,4 @@
 <p><a href="post/Best-Humidifier-For-Small-Room.md">Best Humidifier For Small Room</a></p>
 <p><a href="post/Best-Humidifier-For-Whole-Home.md">Best Humidifier For Whole Home</a></p>
 <p><a href="post/Best-Large-Humidifier.md">Best Large Humidifier</a></p>
+<p><a href="post/Best-Humidifier-For-Basement.md">Best Humidifier For Basement</a></p>
