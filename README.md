@@ -1,4 +1,4 @@
-<h1>Top Rated Evaporative Humidifier</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
+<h1>Amazon Top Humidifiers</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
 <p><a href="post/best-whole-house-humidifiers.md">Best Whole House Humidifiers</a></p>
 <p><a href="post/best-full-home-humidifier.md">Best Full Home Humidifier</a></p>
 <p><a href="post/best-whole-home-humidifier.md">Best Whole Home Humidifier</a></p>
@@ -55,3 +55,4 @@
 <p><a href="post/Top-Warm-Mist-Humidifier.md">Top Warm Mist Humidifier</a></p>
 <p><a href="post/Top-Rated-Whole-Home-Humidifier.md">Top Rated Whole Home Humidifier</a></p>
 <p><a href="post/Top-Rated-Evaporative-Humidifier.md">Top Rated Evaporative Humidifier</a></p>
+<p><a href="post/Amazon-Top-Humidifiers.md">Amazon Top Humidifiers</a></p>
