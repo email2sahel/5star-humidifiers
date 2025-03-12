@@ -1,4 +1,4 @@
-<h1>Best Rated Whole Home Humidifiers</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
+<h1>Best Travel Humidifier</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
 <p><a href="post/best-whole-house-humidifiers.md">Best Whole House Humidifiers</a></p>
 <p><a href="post/best-full-home-humidifier.md">Best Full Home Humidifier</a></p>
 <p><a href="post/best-whole-home-humidifier.md">Best Whole Home Humidifier</a></p>
@@ -11,3 +11,4 @@
 <p><a href="post/Warm-Mist-Best-Humidifier.md">Warm Mist Best Humidifier</a></p>
 <p><a href="post/Best-Large-Room-Humidifiers.md">Best Large Room Humidifiers</a></p>
 <p><a href="post/Best-Rated-Whole-Home-Humidifiers.md">Best Rated Whole Home Humidifiers</a></p>
+<p><a href="post/Best-Travel-Humidifier.md">Best Travel Humidifier</a></p>
