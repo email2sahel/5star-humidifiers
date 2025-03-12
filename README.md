@@ -1,4 +1,4 @@
-<h1>Best Warm Cool Mist Humidifier</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
+<h1>Best Warm Humidifier</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
 <p><a href="post/best-whole-house-humidifiers.md">Best Whole House Humidifiers</a></p>
 <p><a href="post/best-full-home-humidifier.md">Best Full Home Humidifier</a></p>
 <p><a href="post/best-whole-home-humidifier.md">Best Whole Home Humidifier</a></p>
@@ -37,3 +37,4 @@
 <p><a href="post/Best-Inexpensive-Humidifier.md">Best Inexpensive Humidifier</a></p>
 <p><a href="post/Best-Rated-Room-Humidifiers.md">Best Rated Room Humidifiers</a></p>
 <p><a href="post/Best-Warm-Cool-Mist-Humidifier.md">Best Warm Cool Mist Humidifier</a></p>
+<p><a href="post/Best-Warm-Humidifier.md">Best Warm Humidifier</a></p>
