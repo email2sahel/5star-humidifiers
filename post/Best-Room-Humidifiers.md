@@ -92,7 +92,6 @@ Here's the deal: the right humidifier fixes ALL of that... if you choose wisely.
 </body>
 </html>
 <i>Prices may vary depending on location, promotions, and availability.</i><hr><html>
-  <body>
     <h2>Best Room Humidifiers for Balanced Comfort</h2>
 
     <!-- Product 1 -->
