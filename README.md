@@ -1,4 +1,4 @@
-<h1>Best Inexpensive Humidifier</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
+<h1>Best Rated Room Humidifiers</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
 <p><a href="post/best-whole-house-humidifiers.md">Best Whole House Humidifiers</a></p>
 <p><a href="post/best-full-home-humidifier.md">Best Full Home Humidifier</a></p>
 <p><a href="post/best-whole-home-humidifier.md">Best Whole Home Humidifier</a></p>
@@ -35,3 +35,4 @@
 <p><a href="post/Best-Humidifier-For-Desk.md">Best Humidifier For Desk</a></p>
 <p><a href="post/Best-Humidifier-For-Whole-House.md">Best Humidifier For Whole House</a></p>
 <p><a href="post/Best-Inexpensive-Humidifier.md">Best Inexpensive Humidifier</a></p>
+<p><a href="post/Best-Rated-Room-Humidifiers.md">Best Rated Room Humidifiers</a></p>
