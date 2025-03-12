@@ -1,4 +1,4 @@
-<h1>Warm Air Humidifier Best</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
+<h1>Best Desk Humidifier</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
 <p><a href="post/best-whole-house-humidifiers.md">Best Whole House Humidifiers</a></p>
 <p><a href="post/best-full-home-humidifier.md">Best Full Home Humidifier</a></p>
 <p><a href="post/best-whole-home-humidifier.md">Best Whole Home Humidifier</a></p>
@@ -26,3 +26,4 @@
 <p><a href="post/Best-Humidifier-For-Travel.md">Best Humidifier For Travel</a></p>
 <p><a href="post/Best-Rated-Whole-House-Humidifiers.md">Best Rated Whole House Humidifiers</a></p>
 <p><a href="post/Warm-Air-Humidifier-Best.md">Warm Air Humidifier Best</a></p>
+<p><a href="post/Best-Desk-Humidifier.md">Best Desk Humidifier</a></p>
