@@ -1,4 +1,4 @@
-<h1>Best Humidifier For Travel</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
+<h1>Best Rated Whole House Humidifiers</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
 <p><a href="post/best-whole-house-humidifiers.md">Best Whole House Humidifiers</a></p>
 <p><a href="post/best-full-home-humidifier.md">Best Full Home Humidifier</a></p>
 <p><a href="post/best-whole-home-humidifier.md">Best Whole Home Humidifier</a></p>
@@ -24,3 +24,4 @@
 <p><a href="post/Best-Cool-Mist-Humidifier-For-Infants.md">Best Cool Mist Humidifier For Infants</a></p>
 <p><a href="post/Best-Humidifiers-For-Entire-House:.md">Best Humidifier For Entire House</a></p>
 <p><a href="post/Best-Humidifier-For-Travel.md">Best Humidifier For Travel</a></p>
+<p><a href="post/Best-Rated-Whole-House-Humidifiers.md">Best Rated Whole House Humidifiers</a></p>
