@@ -1,4 +1,4 @@
-<h1>Best Humidifier Without Filter</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
+<h1>Best In House Humidifier</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
 <p><a href="post/best-whole-house-humidifiers.md">Best Whole House Humidifiers</a></p>
 <p><a href="post/best-full-home-humidifier.md">Best Full Home Humidifier</a></p>
 <p><a href="post/best-whole-home-humidifier.md">Best Whole Home Humidifier</a></p>
@@ -42,3 +42,4 @@
 <p><a href="post/Best-Humidifier-For-1000-Square-Feet.md">Best Humidifier For 1000 Square Feet</a></p>
 <p><a href="post/Best-Humidifier-Large-Room.md">Best Humidifier Large Room</a></p>
 <p><a href="post/Best-Humidifier-Without-Filter.md">Best Humidifier Without Filter</a></p>
+<p><a href="post/Best-In-House-Humidifier.md">Best In House Humidifier</a></p>
