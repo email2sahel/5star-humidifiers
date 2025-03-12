@@ -1,4 +1,4 @@
-<h1>Best Humidifier For Small Room</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
+<h1>Best Humidifier For Whole Home</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
 <p><a href="post/best-whole-house-humidifiers.md">Best Whole House Humidifiers</a></p>
 <p><a href="post/best-full-home-humidifier.md">Best Full Home Humidifier</a></p>
 <p><a href="post/best-whole-home-humidifier.md">Best Whole Home Humidifier</a></p>
@@ -15,3 +15,4 @@
 <p><a href="post/Humidifier-Whole-House-Best.md">Humidifier Whole House Best</a></p>
 <p><a href="post/Best-Bedroom-Humidifiers.md">Best Bedroom Humidifiers</a></p>
 <p><a href="post/Best-Humidifier-For-Small-Room.md">Best Humidifier For Small Room</a></p>
+<p><a href="post/Best-Humidifier-For-Whole-Home.md">Best Humidifier For Whole Home</a></p>
