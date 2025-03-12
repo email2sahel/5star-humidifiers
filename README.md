@@ -1,4 +1,4 @@
-<h1>Best Whole House Steam Humidifier</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
+<h1>Best Hot Mist Humidifier</h1><p><a href="post/best-evaporative-humidifier.md">Best Evaporative Humidifier</a></p>
 <p><a href="post/best-whole-house-humidifiers.md">Best Whole House Humidifiers</a></p>
 <p><a href="post/best-full-home-humidifier.md">Best Full Home Humidifier</a></p>
 <p><a href="post/best-whole-home-humidifier.md">Best Whole Home Humidifier</a></p>
@@ -48,3 +48,4 @@
 <p><a href="post/Best-Small-Humidifiers-For-Bedroom.md">Best Small Humidifiers For Bedroom</a></p>
 <p><a href="post/Best-Warm-Air-Room-Humidifier.md">Best Warm Air Room Humidifier</a></p>
 <p><a href="post/Best-Whole-House-Steam-Humidifier.md">Best Whole House Steam Humidifier</a></p>
+<p><a href="post/Best-Hot-Mist-Humidifier.md">Best Hot Mist Humidifier</a></p>
